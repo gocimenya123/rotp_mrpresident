@@ -1,0 +1,19 @@
+{
+  "stand.rotp_mrpresident.mr_president": "Mr.President",
+  "action.rotp_mrpresident.mr_president_enter_room": "Enter Room",
+  "action.rotp_mrpresident.mr_president_enter_room.exit": "Exit Room",
+  "action.rotp_mrpresident.mr_president_kidnap": "Kidnap",
+  "action.rotp_mrpresident.mr_president_empty_room": "Empty Room",
+  "action.rotp_mrpresident.mr_president_shake_key": "Shake Key",
+  "action.rotp_mrpresident.mr_president_restock": "Restock Supplies",
+  "action.rotp_mrpresident.mr_president_turtle_form": "Turtle Form",
+  "action.rotp_mrpresident.mr_president_turtle_form.off": "Drop Turtle Form",
+  "action.rotp_mrpresident.mr_president_key": "Remove Key",
+  "action.rotp_mrpresident.mr_president_key.insert": "Insert Key",
+  "effect.rotp_mrpresident.turtle_form": "Turtle Form",
+  "jojo.message.action_condition.mr_president_room_locked": "The key is out of the shell: the room is locked",
+  "jojo.message.action_condition.mr_president_outside_only": "Can't be used from inside the room",
+  "jojo.message.action_condition.mr_president_no_key": "Hold the matching Turtle Key in your main hand",
+  "effect.rotp_mrpresident.key_removed": "Key Removed",
+  "entity.rotp_mrpresident.key_marker": "Key Marker"
+}

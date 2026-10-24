@@ -1,0 +1,19 @@
+{
+  "stand.rotp_mrpresident.mr_president": "Mr.President",
+  "action.rotp_mrpresident.mr_president_enter_room": "Войти в комнату",
+  "action.rotp_mrpresident.mr_president_enter_room.exit": "Выйти из комнаты",
+  "action.rotp_mrpresident.mr_president_kidnap": "Похищение",
+  "action.rotp_mrpresident.mr_president_empty_room": "Опустошить комнату",
+  "action.rotp_mrpresident.mr_president_shake_key": "Встряхнуть ключ",
+  "action.rotp_mrpresident.mr_president_restock": "Пополнить запасы",
+  "action.rotp_mrpresident.mr_president_turtle_form": "Форма черепахи",
+  "action.rotp_mrpresident.mr_president_turtle_form.off": "Выйти из формы черепахи",
+  "action.rotp_mrpresident.mr_president_key": "Вынуть ключ",
+  "action.rotp_mrpresident.mr_president_key.insert": "Вставить ключ",
+  "effect.rotp_mrpresident.turtle_form": "Форма черепахи",
+  "jojo.message.action_condition.mr_president_room_locked": "Ключ вынут из панциря: комната закрыта",
+  "jojo.message.action_condition.mr_president_outside_only": "Нельзя использовать из комнаты",
+  "jojo.message.action_condition.mr_president_no_key": "Возьмите в основную руку свой ключ черепахи",
+  "effect.rotp_mrpresident.key_removed": "Ключ вынут",
+  "entity.rotp_mrpresident.key_marker": "Метка ключа"
+}
